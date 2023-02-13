@@ -19,8 +19,11 @@ I visualized some predictors to see how the affect the injurry incurred
 I found that the sex that is male got into more fatal and incapacitating accidents more than females and that usage of safety equipments like Helmets and safety belts played  major role in accidents and the injuries to be incurred
 
 ### MODEL
- I used dummy classifier and the confusion matrix as my metrics
+ I used dummy classifier and logistic regression as my model and I also used confusion matrix to summerize the performance of the classification model.
  
  ### RECCOMENDATIONS
  
- public education on use of saftey gears is important so the department should try and educate the people on so.
+Men are more susceptible to accidents compared to women. Therefore, it is essential to emphasize public education on the use of safety equipment, including helmets and seat belts, in order to prevent injuries or even fatalities. It would be beneficial for the department to take an active role in educating people on the importance of safety gear.
+
+
+
